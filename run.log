@@ -1,0 +1,9 @@
+2026-05-19T10:37:50 [INFO] === Job START ===
+2026-05-19T10:37:50 [INFO] Config loaded — version=v1 | seed=42 | window=5
+2026-05-19T10:37:50 [INFO] Random seed set to 42.
+2026-05-19T10:37:50 [INFO] Dataset loaded — 10000 rows (0 dropped).
+2026-05-19T10:37:50 [INFO] Rolling mean computed — window=5 | valid rows=9996 | NaN rows (warm-up)=4
+2026-05-19T10:37:50 [INFO] Signal generated — signal=1 count=4989 | signal=0 count=5007 | excluded (NaN)=4
+2026-05-19T10:37:50 [INFO] Metrics written to metrics.json.
+2026-05-19T10:37:50 [INFO] Summary — rows_processed=9996 | signal_rate=0.4991 | latency_ms=50.03
+2026-05-19T10:37:50 [INFO] === Job END — status=success ===
